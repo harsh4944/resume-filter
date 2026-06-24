@@ -94,6 +94,8 @@ Hugging Face
 git clone https://github.com/Harshkaushik-coder/resume-filter.git
 cd resume-filter
 
+re updation
+
 # Install dependencies
 pip install -r requirements.txt
 
